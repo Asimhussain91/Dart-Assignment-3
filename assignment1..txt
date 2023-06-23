@@ -1,0 +1,7 @@
+void main(){ 
+  var name = ['asim','farooq','imran','sami','qasim'];
+print(name);  
+}
+
+
+result   [asim, farooq, imran, sami, qasim]

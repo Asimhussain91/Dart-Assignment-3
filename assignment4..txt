@@ -1,0 +1,18 @@
+void main(){
+ var Number1=[1,2,3,4,5,6];
+  var Number2=[];
+  for (int Number in Number1){
+ 
+ if(Number%2==0){Number2.add(true);}
+  
+  else{Number2.add(false);}
+  print(Number2);  
+  
+}}
+
+result   [false]
+[false, true]
+[false, true, false]
+[false, true, false, true]
+[false, true, false, true, false]
+[false, true, false, true, false, true]
